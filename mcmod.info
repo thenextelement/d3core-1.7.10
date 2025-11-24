@@ -1,0 +1,21 @@
+{
+  "modListVersion": 2,
+  "modList": [{
+    "modid": "D3Core",
+    "name": "D3Core",
+    "description": "DoubleDoor Development Core",
+    "version": "1.1.0.29",
+    "mcversion": "1.7.10",
+    "url": "https://github.com/DoubleDoorDevelopment/D3Core",
+    "updateUrl": "",
+    "authorList": [ "Dries007", "Doubledoor team" ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "parent": "",
+    "requiredMods": [ "Forge" ],
+    "dependencies": [ ],
+    "dependants": [ ],
+    "useDependencyInformation": true
+  }]
+}
